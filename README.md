@@ -1,5 +1,9 @@
 # n8n-nodes-veroq
 
+[![npm](https://img.shields.io/npm/v/n8n-nodes-veroq?color=2EE89A&label=npm)](https://www.npmjs.com/package/n8n-nodes-veroq)
+[![Downloads](https://img.shields.io/npm/dm/n8n-nodes-veroq?color=2EE89A)](https://www.npmjs.com/package/n8n-nodes-veroq)
+[![License](https://img.shields.io/badge/license-MIT-2EE89A)](LICENSE)
+
 n8n community node for the [VEROQ Intelligence API](https://veroq.co).
 
 Verified, bias-scored financial intelligence for AI agents and automation workflows.
