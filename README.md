@@ -4,7 +4,7 @@
 [![Downloads](https://img.shields.io/npm/dm/n8n-nodes-veroq?color=2EE89A)](https://www.npmjs.com/package/n8n-nodes-veroq)
 [![License](https://img.shields.io/badge/license-MIT-2EE89A)](LICENSE)
 
-n8n community node for the [VEROQ Intelligence API](https://veroq.co).
+n8n community node for the [VEROQ Intelligence API](https://veroq.ai).
 
 Verified, bias-scored financial intelligence for AI agents and automation workflows.
 
@@ -20,7 +20,7 @@ n8n-nodes-veroq
 
 Add a **VEROQ API** credential with your API key. Both VEROQ and Polaris API keys are accepted.
 
-Get a free key at [veroq.co/dashboard](https://veroq.co/dashboard).
+Get a free key at [veroq.co/dashboard](https://veroq.ai/dashboard).
 
 ## Quick Start
 
@@ -70,6 +70,7 @@ These handle most use cases. The other resources give you granular access when y
 
 ## Links
 
-- [API Documentation](https://veroq.co/docs)
-- [Get API Key](https://veroq.co/dashboard)
-- [GitHub](https://github.com/Polaris-API/polaris-sdks)
+- [VEROQ](https://veroq.ai) — Interactive demos
+- [API Reference](https://veroq.ai/api-reference) — 300+ endpoints
+- [Python SDK](https://github.com/Veroq-api/veroq-python)
+- [TypeScript SDK](https://github.com/Veroq-api/veroq-js)
